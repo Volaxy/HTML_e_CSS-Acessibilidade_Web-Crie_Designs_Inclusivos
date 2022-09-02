@@ -11,16 +11,4 @@ URL do curso -> [Acessibilidade Web: Crie Designs Inclusivos](https://cursos.alu
 ![Acessibilidade Web: Crie Designs Inclusivos](https://www.alura.com.br/assets/api/share/curso-acessibilidade-web-design-inclusivos.png)
 
 ## Links Úteis &#x1F517;
-*
-
-## Siglas &#x1F5FA;
-*
-
-## Atalhos &#x2328;
-*
-
-## 01 - Acessibilidade e Autismo &#x1F516;
-
-### NOME_DA_AULA
-
-***
+* [Palestra da Talita Pagani](https://www.youtube.com/watch?v=4URTZHk6tz0) - Palestra sobre acessibilidade na Web.
